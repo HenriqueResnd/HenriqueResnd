@@ -1,16 +1,25 @@
-### Hi there 👋
+# Oláa, sou o Henrique!👋
 
-<!--
-**HenriqueResnd/HenriqueResnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou eu?
 
-Here are some ideas to get you started:
+* 📊 Estudante de Data Science com o objetivo de ser analista de dados 🖥️
+* ⚙️ Engenheiro Ambiental 💧 UFLA
+* 🔋 Especialista em Energias Renováveis e Eficiência Energética ☀️ UFPR
+* 📈 Investidor 
+* 📚 Lifelong learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 🔧*👨‍💻
+
+* 🐍 Python
+* 🧾 SQL
+* 📊 PowerBI
+* 🧮 Excel
+* 🤖 Machine Learning
+
+## Pode me achar no:
+
+[Linkedin]( https://www.linkedin.com/in/henrique-resende-gualberto/)
+
+## **Meus Projetos**
+
+
