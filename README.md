@@ -18,7 +18,7 @@
 
 ## Pode me achar no:
 
-[Linkedin]( https://www.linkedin.com/in/henrique-resende-gualberto/)
+[Linkedin]( https://www.linkedin.com/in/henrique-resende-gualberto-8937a4128/)
 
 ## **Meus Projetos**
 
