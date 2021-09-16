@@ -22,4 +22,4 @@
 
 ## **Meus Projetos**
 
-Escrevendo...
+Projeto álbum de figurinha em python
